@@ -1,0 +1,44 @@
+.imgHolder {
+    width: auto;
+    height: 120px;
+}
+
+.card {
+    width: 22%;
+    Height: 300px;
+    margin-top: 20px;
+    border: solid 2px gray;
+    text-align: center;
+    padding: 10px;
+} 
+
+.deviceImg {
+    width: auto;
+    height: 120px;
+}
+
+.deviceList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+h1 {
+    font-size: medium;
+}
+
+button { 
+    cursor: pointer;
+}
+.card button {
+    width:90%; 
+    padding: 10px;
+    background-color: rgb(207, 131, 16);
+    color: ivory;
+    bottom: 30px;
+}
+
+.card .borrowed {
+    color: rgb(188, 194, 194);
+    background-color: lightslategray;
+}

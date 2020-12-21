@@ -1,0 +1,29 @@
+.login {
+    display:flex;
+    flex-direction: column;
+    width:40%;
+    align-items: center;
+    padding: 15px;
+    border: black solid 2px;
+    background-color: #F8F9FA;
+}
+
+.loginHolder {
+    display:flex;
+    justify-content: center;
+    margin: 10%;
+}
+
+ .loginBtn {
+    width: 100%;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+} 
+
+.logininput {
+    width: 100%;
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+}
